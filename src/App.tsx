@@ -19,6 +19,14 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
+             <a
+            className="App-link"
+            href="https://redux-toolkit.js.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Redux Toolkit
+          </a>
             React
           </a>
           <span>, </span>
@@ -28,6 +36,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
+          
             Redux
           </a>
           <span>, </span>
